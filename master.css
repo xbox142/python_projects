@@ -1,0 +1,11 @@
+#up{
+    text-align: center;
+    border: 5px solid blue;
+    margin: 20px 20px 100px 100px;
+}
+
+#down{
+    text-align: center;
+    border: 10px solid red;
+    padding-top: 20px;
+}
